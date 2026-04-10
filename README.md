@@ -1,16 +1,33 @@
-## Hi there 👋
+💻 Desenvolvedor Full Stack em formação
 
-<!--
-**btbruno21/btbruno21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias
 
-Here are some ideas to get you started:
+### 💻 Backend
+- PHP (Laravel)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+- JavaScript
+- HTML5, CSS3
+- React Native
+
+### 🗄️ Banco de Dados
+- MySQL
+- PostgreSQL
+
+### 🔧 Ferramentas
+- Git e GitHub
+
+## 📌 Projetos em destaque
+- 🔹 Redoma - Plataforma de Eventos
+- 🔹 Website empresarial – Loch
+
+## 📈 Atualmente
+- Estudante do 5° período de Análise e Desenvolvimento de Sistemas na Faculdade Senac
+- Aprofundando conhecimentos em desenvolvimento web (PHP, Laravel e JavaScript)
+- Estudando boas práticas de desenvolvimento e organização de código
+- Buscando minha primeira oportunidade como desenvolvedor
+
+## 📫 Contato
+- Email: brunommores@gmail.com
+- GitHub: github.com/btbruno21
